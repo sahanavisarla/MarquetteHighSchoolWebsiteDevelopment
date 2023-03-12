@@ -1,0 +1,14 @@
+.section1{
+	width 75%; 
+	margin:auto;
+}
+
+.box1{
+	background-color:#77b7c7;
+	color:#000000;
+	
+	border-right:5px darkblue solid;
+	border-left:5px darkblue solid;
+	border-top:5px darkblue solid;
+	border-bottom:5px darkblue solid;
+}
