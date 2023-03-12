@@ -1,0 +1,6 @@
+.format{
+	background-color: #999085;
+	color:#573a14;
+	fontFamily = "Cambria, serif";
+	align: "center";
+}
